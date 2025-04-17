@@ -36,4 +36,13 @@ Parsing JSON responses with GSON
 
 Loading weather-based animations with Lottie
 
-Structuring a clean and functional UI using XM
+Structuring a clean and functional UI using XML
+
+##Screenshot
+
+![image](https://github.com/user-attachments/assets/239d2f8f-8742-4638-a731-6dcb8da26196)
+![image](https://github.com/user-attachments/assets/c48978b6-ace7-45fe-b9e6-aa8426a99c0c)
+![image](https://github.com/user-attachments/assets/12ea5534-a9a6-4886-bcb4-fcc4b41936c0)
+
+
+
